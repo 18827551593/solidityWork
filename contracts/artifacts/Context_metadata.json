@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/FYJ_STAKINGPOOL.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/FYJ_STAKINGPOOL.sol": {
+			"keccak256": "0x371dda75affc4cb0145a0537527b6f950e04aaab02f4ed3c0cb2e9d899cae9a0",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://3c696adae87b41262b1db4d7a699541ffab5a9ef14ce9c8438cca498ff7f0b92",
+				"dweb:/ipfs/QmRQ1LQxnX3nANDGbccM1vPrxLE1HgaKeU5P8P4fE8aJci"
+			]
+		}
+	},
+	"version": 1
+}
